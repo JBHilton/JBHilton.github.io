@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate based in the [The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/) at the [University of Warwick](https://warwick.ac.uk/).
+I am a Postdoctoral Research Associate based in the [Institute of Infection, Veterinary and Ecological Sciences](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/) at the [University of Liverpool](https://www.liverpool.ac.uk/).
+
+I was previously affiliated with [The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/) at the [University of Warwick](https://warwick.ac.uk/).
