@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Preprints
+# Preprints (not yet peer-reviewed)
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
