@@ -24,12 +24,12 @@ For my contributions to SPI-M-O I was awarded the SPI-M-O Award for Modelling an
  [2022 Weldon Memorial Prize](https://www.ox.ac.uk/event/modelling-covid-19-pandemic-uk-weldon-memorial-prize-lecture-2022)
  for “noteworthy contributions to the development of mathematical or statistical methods applied to problems in Biology”.
  
- # Media
+# Media
  
  I was quoted in a May 2020 [Times article](https://www.thetimes.co.uk/article/coronavirus-why-some-countries-seem-to-have-escaped-its-grip-xdr7js8z6)
   (paywalled) on global patterns of COVID-19 spread.
   
-  # Awards and prizes
+# Awards and prizes
   
   * **2021** School of Life Science Post-Doctoral Research Prize for the Faculty of Science, Engineering, and Medicine.
   Awarded by the university of Warwick in recognition of [my early work on COVID-19](https://doi.org/10.1371/journal.pcbi.1008031).
