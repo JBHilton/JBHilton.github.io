@@ -15,6 +15,9 @@ main:
         
 #   - title: "Blog"
 #     url: /year-archive/
+  
+  - title: "Policy, media, and professional activities"
+    url: /professional-activities/
     
   - title: "CV"
     url: /cv/
