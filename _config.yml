@@ -56,7 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-bluesky: "joebhilton.bsky.social"
+twitter:
+  username               : &twitter "JoeBHilton"
 facebook:
   username               :
   app_id                 :
