@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 My research sits at the interface between **mathematical epidemiology** and **health economics**, using mathematics, statistics, and computation to understand
-different aspects of public health. I have particular expertise in stochastic processes, models of respiratory infections, Bayesian inference, and machine learning. Key areas of my work to date are listed below:
+different aspects of public health. I have particular expertise in stochastic processes, infectious disease dynamics, Bayesian inference, and machine learning. Key areas of my work to date are listed below:
 
 **Household-structured** epidemic models. I am particularly interested in developing new simulation and inference techniques for high-dimensional risk-stratified household models.
 
